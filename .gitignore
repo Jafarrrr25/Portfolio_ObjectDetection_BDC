@@ -3,3 +3,5 @@ charDetection-3/
 runs/
 Train_preprocessed/
 Satriadata/
+
+.gitignore
